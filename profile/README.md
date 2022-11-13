@@ -1,6 +1,6 @@
 ## ManyFaces
 
-🕸 [Website](https://ManyFacesTeam.github.io)  
+🕸 [Website](http://www.manyfaces.team/)  
 💬 [Discussions](https://github.com/orgs/ManyFacesTeam/discussions) (replacing the [Slack](https://manyfacesteam.slack.com))  
 
 This group is open to anyone who wants to join, at any level of expertise (you will need a github account).
